@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
+* v.02  chk_assign_val  檢查限定內容欄位
 * v.01  過濾必填與非必填功能
 * 
 *
